@@ -33,5 +33,5 @@ jobs:
         config: ${{ secrets.SSH_CONFIG }} 
         if_key_exists: fail
     - name: Rsync over ssh
-      run: rsync --rsync-path="sudo rsync" -r --exclude=".*" data/ prod:/srv/stamp-finder/data --delete &>/dev/null
+      run: rsync -r --exclude=".*" data/ prod:webroot/data --delete &>/dev/null
   
