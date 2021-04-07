@@ -28004,6 +28004,16 @@
     ],
     "present": true
   },
+  "2737": {
+    "image": "images/2737.png",
+    "value": 100.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38272.aspx",
+    "categories": [
+      "Государство и власть"
+    ],
+    "present": false
+  },
   "2738": {
     "image": "images/2738.png",
     "value": 56.0,
