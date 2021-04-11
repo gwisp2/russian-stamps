@@ -1,0 +1,35 @@
+name: Add new stamps
+
+on: 
+  push:
+    branches:
+    - main
+  schedule:
+  - cron: "0 14 * * *"
+  workflow_dispatch:
+
+jobs:
+  add-new-stamps:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout this repository
+      uses: actions/checkout@v2
+      with:
+        path: data
+        ref: main
+        fetch-depth: 0
+    - name: Checkout helper scripts repository
+      uses: actions/checkout@v2
+      with:
+        repository: gwisp2/stamp-finder-scripts
+        path: scripts
+    - name: Install helper scripts
+      run: pushd scripts && ./setup.py install --user && popd
+    - name: Find new stamps
+      run: '"/home/runner/.local/bin/sfs" add-new --datadir=./data --links-page https://rusmarka.ru/catalog/marki/cat/19.aspx'
+    - name: Create new branch
+      run: pushd data && git checkout -b "autoparsed-${GITHUB_RUN_ID}" && popd
+    - name: Commit new files
+      run: cd data && git add . && git -c user.name="Robot" -c user.email="na" commit -m "New files" && git push --set-upstream origin "autoparsed-${GITHUB_RUN_ID}"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
