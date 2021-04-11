@@ -30,6 +30,7 @@ jobs:
     - name: Create new branch
       run: pushd data && git checkout -b "autoparsed-${GITHUB_RUN_ID}" && popd
     - name: Commit new files
-      run: cd data && git add . && git -c user.name="Robot" -c user.email="na" commit -m "New files" && git push --set-upstream origin "autoparsed-${GITHUB_RUN_ID}"
+      # || true to ignore 'Nothing to commit errors'
+      run: (cd data && git add . && git -c user.name="Robot" -c user.email="na" commit -m "New files" && git push --set-upstream origin "autoparsed-${GITHUB_RUN_ID}") || true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
