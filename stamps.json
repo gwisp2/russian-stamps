@@ -28168,5 +28168,49 @@
       "Праздники"
     ],
     "present": true
+  },
+  "2754": {
+    "image": "images/2754.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38308.aspx",
+    "categories": [
+      "Праздники",
+      "Флора"
+    ],
+    "present": true
+  },
+  "2755": {
+    "image": "images/2755.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38308.aspx",
+    "categories": [
+      "Праздники",
+      "Флора"
+    ],
+    "present": true
+  },
+  "2756": {
+    "image": "images/2756.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38308.aspx",
+    "categories": [
+      "Праздники",
+      "Флора"
+    ],
+    "present": true
+  },
+  "2757": {
+    "image": "images/2757.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38308.aspx",
+    "categories": [
+      "Праздники",
+      "Флора"
+    ],
+    "present": true
   }
 }
