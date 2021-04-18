@@ -28212,5 +28212,15 @@
       "Флора"
     ],
     "present": true
+  },
+  "2758": {
+    "image": "images/2758.png",
+    "value": 56.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38327.aspx",
+    "categories": [
+      "Россия. Регионы"
+    ],
+    "present": true
   }
 }
