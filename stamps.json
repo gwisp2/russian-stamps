@@ -28232,5 +28232,15 @@
       "Международное сотрудничество"
     ],
     "present": true
+  },
+  "2760": {
+    "image": "images/2760.png",
+    "value": 100.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38338.aspx",
+    "categories": [
+      "Культура и искусство"
+    ],
+    "present": true
   }
 }
