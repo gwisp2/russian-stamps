@@ -28242,5 +28242,25 @@
       "Культура и искусство"
     ],
     "present": true
+  },
+  "2761": {
+    "image": "images/2761.png",
+    "value": 40.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38362.aspx",
+    "categories": [
+      "Праздники"
+    ],
+    "present": true
+  },
+  "2762": {
+    "image": "images/2762.png",
+    "value": 40.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38362.aspx",
+    "categories": [
+      "Праздники"
+    ],
+    "present": true
   }
 }
