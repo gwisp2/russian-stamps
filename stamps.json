@@ -28262,5 +28262,49 @@
       "Праздники"
     ],
     "present": true
+  },
+  "2763": {
+    "image": "images/2763.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38372.aspx",
+    "categories": [
+      "Наука",
+      "Связь"
+    ],
+    "present": true
+  },
+  "2764": {
+    "image": "images/2764.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38372.aspx",
+    "categories": [
+      "Наука",
+      "Связь"
+    ],
+    "present": true
+  },
+  "2765": {
+    "image": "images/2765.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38372.aspx",
+    "categories": [
+      "Наука",
+      "Связь"
+    ],
+    "present": true
+  },
+  "2766": {
+    "image": "images/2766.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38372.aspx",
+    "categories": [
+      "Наука",
+      "Связь"
+    ],
+    "present": true
   }
 }
