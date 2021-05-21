@@ -28316,5 +28316,15 @@
       "Наука"
     ],
     "present": true
+  },
+  "2768": {
+    "image": "images/2768.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38408.aspx",
+    "categories": [
+      "Наука"
+    ],
+    "present": true
   }
 }
