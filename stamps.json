@@ -28336,5 +28336,45 @@
       "Государство и власть"
     ],
     "present": true
+  },
+  "2770": {
+    "image": "images/2770.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38432.aspx",
+    "categories": [
+      "Транспорт"
+    ],
+    "present": true
+  },
+  "2771": {
+    "image": "images/2771.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38432.aspx",
+    "categories": [
+      "Транспорт"
+    ],
+    "present": true
+  },
+  "2772": {
+    "image": "images/2772.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38432.aspx",
+    "categories": [
+      "Транспорт"
+    ],
+    "present": true
+  },
+  "2773": {
+    "image": "images/2773.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38432.aspx",
+    "categories": [
+      "Транспорт"
+    ],
+    "present": true
   }
 }
