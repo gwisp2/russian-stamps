@@ -28424,5 +28424,15 @@
     "page": "https://rusmarka.ru/catalog/marki/position/38452.aspx",
     "categories": [],
     "present": true
+  },
+  "2779": {
+    "image": "images/2779.png",
+    "value": 40.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38496.aspx",
+    "categories": [
+      "Наука"
+    ],
+    "present": true
   }
 }
