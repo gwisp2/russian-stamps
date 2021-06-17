@@ -28434,5 +28434,15 @@
       "Наука"
     ],
     "present": true
+  },
+  "2780": {
+    "image": "images/2780.png",
+    "value": 100.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38508.aspx",
+    "categories": [
+      "Культура и искусство"
+    ],
+    "present": true
   }
 }
