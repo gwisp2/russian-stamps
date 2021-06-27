@@ -28454,5 +28454,15 @@
       "История"
     ],
     "present": true
+  },
+  "2782": {
+    "image": "images/2782.png",
+    "value": 40.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38529.aspx",
+    "categories": [
+      "История"
+    ],
+    "present": true
   }
 }
