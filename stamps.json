@@ -28464,5 +28464,15 @@
       "История"
     ],
     "present": true
+  },
+  "2783": {
+    "image": "images/2783.png",
+    "value": 150.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38535.aspx",
+    "categories": [
+      "Культура и искусство"
+    ],
+    "present": true
   }
 }
