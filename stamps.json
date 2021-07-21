@@ -28532,5 +28532,15 @@
     "page": "https://rusmarka.ru/catalog/marki/position/38567.aspx",
     "categories": [],
     "present": true
+  },
+  "2790": {
+    "image": "images/2790.png",
+    "value": 100.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38595.aspx",
+    "categories": [
+      "Религия"
+    ],
+    "present": true
   }
 }
