@@ -34134,5 +34134,18 @@
     "series": null,
     "name": "2550 лет городу Феодосии",
     "present": true
+  },
+  "2792": {
+    "image": "images/2792.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38630.aspx",
+    "categories": [
+      "Наука",
+      "Транспорт"
+    ],
+    "series": null,
+    "name": "100 лет барку \"Седов\"",
+    "present": true
   }
 }
