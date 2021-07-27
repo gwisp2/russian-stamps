@@ -24,7 +24,7 @@ jobs:
     - name: Resize stamp images
       run: '"/home/runner/.local/bin/sfs" resize-images --datadir=./data --size 512'
     - name: 'Rename images (so that users forgot cached versions)'
-      run: '"/home/runner/.local/bin/sfs" rename-images --datadir=./data --format \'{filename}@v2.{ext}\''
+      run: '"/home/runner/.local/bin/sfs" rename-images --datadir=./data --format {filename}@v2.{ext}'
     - name: Update present field
       run: '"/home/runner/.local/bin/sfs" update-present-field --datadir=./data'
     - name: Install SSH key
