@@ -34171,5 +34171,29 @@
     "series": "Морской флот России",
     "name": "Танкер «Штурман Альбанов»",
     "present": true
+  },
+  "2795": {
+    "image": "images/2795.png",
+    "value": 27.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38667.aspx",
+    "categories": [
+      "Транспорт"
+    ],
+    "series": "Железнодорожный транспорт России. Современные поезда",
+    "name": "Поезд с двухэтажными вагонами",
+    "present": true
+  },
+  "2796": {
+    "image": "images/2796.png",
+    "value": 27.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38667.aspx",
+    "categories": [
+      "Транспорт"
+    ],
+    "series": "Железнодорожный транспорт России. Современные поезда",
+    "name": "«Рускеальский экспресс»",
+    "present": true
   }
 }
