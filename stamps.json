@@ -34195,5 +34195,17 @@
     "series": "Железнодорожный транспорт России. Современные поезда",
     "name": "«Рускеальский экспресс»",
     "present": true
+  },
+  "2797": {
+    "image": "images/2797.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38696.aspx",
+    "categories": [
+      "Россия. Регионы"
+    ],
+    "series": null,
+    "name": "650 лет Калуге",
+    "present": true
   }
 }
