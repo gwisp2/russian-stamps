@@ -34207,5 +34207,39 @@
     "series": null,
     "name": "650 лет Калуге",
     "present": true
+  },
+  "2798": {
+    "image": "images/2798.png",
+    "value": 0.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38701.aspx",
+    "categories": [],
+    "series": null,
+    "name": "60 лет  продолжительному полету человека в космос",
+    "present": false
+  },
+  "2799": {
+    "image": "images/2799.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38702.aspx",
+    "categories": [
+      "Россия. Регионы"
+    ],
+    "series": null,
+    "name": "950 лет Рыбинску Ярославской области",
+    "present": true
+  },
+  "2800": {
+    "image": "images/2800.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38705.aspx",
+    "categories": [
+      "Россия. Регионы"
+    ],
+    "series": null,
+    "name": "650 лет Верее Московской области",
+    "present": true
   }
 }
