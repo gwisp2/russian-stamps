@@ -34241,5 +34241,17 @@
     "series": null,
     "name": "650 лет Верее Московской области",
     "present": true
+  },
+  "2801": {
+    "image": "images/2801.png",
+    "value": 55.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38760.aspx",
+    "categories": [
+      "История"
+    ],
+    "series": null,
+    "name": "550 лет путешествию Афанасия Никитина в Индию",
+    "present": true
   }
 }
