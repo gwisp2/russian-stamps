@@ -34253,5 +34253,17 @@
     "series": null,
     "name": "550 лет путешествию Афанасия Никитина в Индию",
     "present": true
+  },
+  "2802": {
+    "image": "images/2802.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38771.aspx",
+    "categories": [
+      "Религия"
+    ],
+    "series": null,
+    "name": "Серия \"Монастыри Русской православной церкви\" 800 лет Благовещенскому мужскому монастырю в г. Нижнем Новгороде",
+    "present": true
   }
 }
