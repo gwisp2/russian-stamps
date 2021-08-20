@@ -34265,5 +34265,17 @@
     "series": null,
     "name": "Серия \"Монастыри Русской православной церкви\" 800 лет Благовещенскому мужскому монастырю в г. Нижнем Новгороде",
     "present": true
+  },
+  "2803": {
+    "image": "images/2803.png",
+    "value": 100.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38792.aspx",
+    "categories": [
+      "Россия. Регионы"
+    ],
+    "series": null,
+    "name": "100 лет Республике Коми",
+    "present": true
   }
 }
