@@ -34277,5 +34277,25 @@
     "series": null,
     "name": "100 лет Республике Коми",
     "present": true
+  },
+  "2804": {
+    "image": "images/2804.png",
+    "value": 18.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38795.aspx",
+    "categories": [],
+    "series": null,
+    "name": "Образ современной России. Медведь",
+    "present": true
+  },
+  "2805": {
+    "image": "images/2805.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38794.aspx",
+    "categories": [],
+    "series": null,
+    "name": "Образ современной России. Герои нашего времени",
+    "present": true
   }
 }
