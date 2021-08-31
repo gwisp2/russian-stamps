@@ -34297,5 +34297,53 @@
     "series": null,
     "name": "Образ современной России. Герои нашего времени",
     "present": true
+  },
+  "2806": {
+    "image": "images/2806.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38859.aspx",
+    "categories": [
+      "Военная техника"
+    ],
+    "series": "Серия \"История отечественного танкостроения\"",
+    "name": "Танк  \"Т-34-76\"",
+    "present": true
+  },
+  "2807": {
+    "image": "images/2807.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38859.aspx",
+    "categories": [
+      "Военная техника"
+    ],
+    "series": "Серия \"История отечественного танкостроения\"",
+    "name": "Танк \"Т- 54\"",
+    "present": true
+  },
+  "2808": {
+    "image": "images/2808.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38859.aspx",
+    "categories": [
+      "Военная техника"
+    ],
+    "series": "Серия \"История отечественного танкостроения\"",
+    "name": "Танк \"Т-72 БЗ\"",
+    "present": true
+  },
+  "2809": {
+    "image": "images/2809.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38859.aspx",
+    "categories": [
+      "Военная техника"
+    ],
+    "series": "Серия \"История отечественного танкостроения\"",
+    "name": "Танк \" Т-90М \"Прорыв\"\"",
+    "present": true
   }
 }
