@@ -34345,5 +34345,17 @@
     "series": "Серия \"История отечественного танкостроения\"",
     "name": "Танк \" Т-90М \"Прорыв\"\"",
     "present": true
+  },
+  "2810": {
+    "image": "images/2810.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38867.aspx",
+    "categories": [
+      "Транспорт"
+    ],
+    "series": null,
+    "name": "Судостроительный комплекс \"Звезда\"",
+    "present": true
   }
 }
