@@ -34357,5 +34357,53 @@
     "series": null,
     "name": "Судостроительный комплекс \"Звезда\"",
     "present": true
+  },
+  "2811": {
+    "image": "images/2811.png",
+    "value": 60.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38915.aspx",
+    "categories": [
+      "Россия. Регионы"
+    ],
+    "series": "Серия \"Города трудовой доблести\"",
+    "name": "Екатеринбург. Памятник Уральскому добровольческому  танковому корпусу.",
+    "present": true
+  },
+  "2812": {
+    "image": "images/2812.png",
+    "value": 60.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38915.aspx",
+    "categories": [
+      "Россия. Регионы"
+    ],
+    "series": "Серия \"Города трудовой доблести\"",
+    "name": "Новосибирск. Мемориал Славы труженикам тыла 1941-1945 гг.",
+    "present": true
+  },
+  "2813": {
+    "image": "images/2813.png",
+    "value": 60.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38915.aspx",
+    "categories": [
+      "Россия. Регионы"
+    ],
+    "series": "Серия \"Города трудовой доблести\"",
+    "name": "Самара. Самолет-штурмовик Ил-2.",
+    "present": true
+  },
+  "2814": {
+    "image": "images/2814.png",
+    "value": 60.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38915.aspx",
+    "categories": [
+      "Россия. Регионы"
+    ],
+    "series": "Серия \"Города трудовой доблести\"",
+    "name": "Челябинск. Памятник танкистам-добровольцам.",
+    "present": true
   }
 }
