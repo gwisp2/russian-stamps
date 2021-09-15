@@ -34417,5 +34417,17 @@
     "series": null,
     "name": "800 лет со дня рождения князя Александра Невского (1221-1263), государственного деятеля, полководца",
     "present": true
+  },
+  "2816": {
+    "image": "images/2816.png",
+    "value": 56.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38951.aspx",
+    "categories": [
+      "История"
+    ],
+    "series": null,
+    "name": "Серия \"История Российской дипломатии\" 300 лет Ништадскому мирному  договору",
+    "present": true
   }
 }
