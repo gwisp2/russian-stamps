@@ -34430,6 +34430,54 @@
     "name": "Серия \"История Российской дипломатии\" 300 лет Ништадскому мирному  договору",
     "present": true
   },
+  "2817": {
+    "image": "images/2817.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38964.aspx",
+    "categories": [
+      "Экономика"
+    ],
+    "series": "История  отечественного тракторостроения. Гусеничные тракторы",
+    "name": "Трактор Ф.А. Блинова",
+    "present": true
+  },
+  "2818": {
+    "image": "images/2818.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38964.aspx",
+    "categories": [
+      "Экономика"
+    ],
+    "series": "История  отечественного тракторостроения. Гусеничные тракторы",
+    "name": "Трактор С-60 «Сталинец»",
+    "present": true
+  },
+  "2819": {
+    "image": "images/2819.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38964.aspx",
+    "categories": [
+      "Экономика"
+    ],
+    "series": "История  отечественного тракторостроения. Гусеничные тракторы",
+    "name": "Трактор ДТ-54",
+    "present": true
+  },
+  "2820": {
+    "image": "images/2820.png",
+    "value": 24.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38964.aspx",
+    "categories": [
+      "Экономика"
+    ],
+    "series": "История  отечественного тракторостроения. Гусеничные тракторы",
+    "name": "Бульдозер ЧЕТРА Т40",
+    "present": true
+  },
   "2821": {
     "image": "images/2821.png",
     "value": 30.0,
