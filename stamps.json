@@ -34537,5 +34537,17 @@
     "series": null,
     "name": "Серия \"Герои Российской Федерации\" Герой Российской Федерации В.Э. Чубенко (1971-2005)",
     "present": true
+  },
+  "2826": {
+    "image": "images/2826.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38989.aspx",
+    "categories": [
+      "Культура и искусство"
+    ],
+    "series": null,
+    "name": "100-лет Дому-музею А.П. Чехова в г.Ялта",
+    "present": true
   }
 }
