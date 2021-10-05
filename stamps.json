@@ -34549,5 +34549,17 @@
     "series": null,
     "name": "100-лет Дому-музею А.П. Чехова в г.Ялта",
     "present": true
+  },
+  "2827": {
+    "image": "images/2827.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/38992.aspx",
+    "categories": [
+      "Космос"
+    ],
+    "series": null,
+    "name": "50 лет Международной организации космической связи \"Интерспутник\"",
+    "present": true
   }
 }
