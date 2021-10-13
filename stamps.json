@@ -34571,5 +34571,17 @@
     "series": null,
     "name": "100 лет компании \"Росгосстрах\"",
     "present": true
+  },
+  "2829": {
+    "image": "images/2829.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39027.aspx",
+    "categories": [
+      "Международное сотрудничество"
+    ],
+    "series": null,
+    "name": "Евразийский женский форум",
+    "present": true
   }
 }
