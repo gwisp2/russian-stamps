@@ -34583,5 +34583,17 @@
     "series": null,
     "name": "Евразийский женский форум",
     "present": true
+  },
+  "2830": {
+    "image": "images/2830.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39029.aspx",
+    "categories": [
+      "Религия"
+    ],
+    "series": null,
+    "name": "Монастыри России.Свято-Троицкий Ново-Голутвин женский монастырь",
+    "present": true
   }
 }
