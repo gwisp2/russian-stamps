@@ -34595,5 +34595,29 @@
     "series": null,
     "name": "Монастыри России.Свято-Троицкий Ново-Голутвин женский монастырь",
     "present": true
+  },
+  "2831": {
+    "image": "images/2831.png",
+    "value": 40.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39034.aspx",
+    "categories": [
+      "Культура и искусство"
+    ],
+    "series": "Серия \"Маяки России\"",
+    "name": "",
+    "present": true
+  },
+  "2832": {
+    "image": "images/2832.png",
+    "value": 40.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39034.aspx",
+    "categories": [
+      "Культура и искусство"
+    ],
+    "series": "Серия \"Маяки России\"",
+    "name": "",
+    "present": true
   }
 }
