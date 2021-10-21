@@ -34619,5 +34619,17 @@
     "series": "Серия \"Маяки России\"",
     "name": "",
     "present": true
+  },
+  "2833": {
+    "image": "images/2833.png",
+    "value": 56.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39043.aspx",
+    "categories": [
+      "Культура и искусство"
+    ],
+    "series": null,
+    "name": "Большой Кремлёвский дворец. Георгиевский зал",
+    "present": true
   }
 }
