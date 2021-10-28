@@ -34631,5 +34631,17 @@
     "series": null,
     "name": "Большой Кремлёвский дворец. Георгиевский зал",
     "present": true
+  },
+  "2834": {
+    "image": "images/2834.png",
+    "value": 40.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39073.aspx",
+    "categories": [
+      "Экономика"
+    ],
+    "series": null,
+    "name": "150 лет со дня рождения И.М. Губкина, организатора нефтяной геологии и нефтегазовой промышленности",
+    "present": true
   }
 }
