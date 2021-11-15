@@ -34677,5 +34677,17 @@
     "series": null,
     "name": "200 лет со дня рождения Ф.М. Достоевского (1821-1881), писателя",
     "present": true
+  },
+  "2838": {
+    "image": "images/2838.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39143.aspx",
+    "categories": [
+      "Культура и искусство"
+    ],
+    "series": null,
+    "name": "100 лет Государственному музею истории российской литературы имени В.И. Даля",
+    "present": true
   }
 }
