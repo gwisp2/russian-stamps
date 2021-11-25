@@ -31871,8 +31871,8 @@
     "name": "Нефтяная компания \"Лукойл\""
   },
   "2841": {
-    "image": null,
-    "value": 0.0,
+    "image": "images/2841.png",
+    "value": 25.0,
     "year": 2021,
     "page": "https://rusmarka.ru/catalog/marki/position/39217.aspx",
     "categories": [],
@@ -31880,8 +31880,8 @@
     "name": null
   },
   "2842": {
-    "image": null,
-    "value": 0.0,
+    "image": "images/2842.png",
+    "value": 25.0,
     "year": 2021,
     "page": "https://rusmarka.ru/catalog/marki/position/39217.aspx",
     "categories": [],
@@ -31889,8 +31889,8 @@
     "name": null
   },
   "2843": {
-    "image": null,
-    "value": 0.0,
+    "image": "images/2843.png",
+    "value": 24.0,
     "year": 2021,
     "page": "https://rusmarka.ru/catalog/marki/position/39225.aspx",
     "categories": [
@@ -31900,8 +31900,8 @@
     "name": null
   },
   "2844": {
-    "image": null,
-    "value": 0.0,
+    "image": "images/2844.png",
+    "value": 56.0,
     "year": 2021,
     "page": "https://rusmarka.ru/catalog/marki/position/39225.aspx",
     "categories": [
