@@ -31909,5 +31909,27 @@
     ],
     "series": "Арктическая зона Российской Федерации. Туризм",
     "name": null
+  },
+  "2845": {
+    "image": "images/2845.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39251.aspx",
+    "categories": [
+      "История"
+    ],
+    "series": null,
+    "name": "125 лет со дня рождения Г.К. Жукова (1896-1974), Маршала Советского Союза"
+  },
+  "2846": {
+    "image": "images/2846.png",
+    "value": 50.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39252.aspx",
+    "categories": [
+      "История"
+    ],
+    "series": null,
+    "name": "125 лет со дня рождения К.К. Рокоссовского (1896-1968), Маршала Советского Союза"
   }
 }
