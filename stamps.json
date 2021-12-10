@@ -31960,5 +31960,27 @@
     ],
     "series": null,
     "name": "С Новым годом!"
+  },
+  "2850": {
+    "image": "images/2850.png",
+    "value": 100.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39299.aspx",
+    "categories": [
+      "Россия. Регионы"
+    ],
+    "series": null,
+    "name": "100 лет Республике Дагестан"
+  },
+  "2851": {
+    "image": "images/2851.png",
+    "value": 25.0,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39305.aspx",
+    "categories": [
+      "Спорт"
+    ],
+    "series": null,
+    "name": "75 лет отечественному хоккею"
   }
 }
