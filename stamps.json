@@ -31982,5 +31982,49 @@
     ],
     "series": null,
     "name": "75 лет отечественному хоккею"
+  },
+  "2852": {
+    "image": "images/2852.png",
+    "value": 25,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39317.aspx",
+    "categories": [
+      "Культура и искусство"
+    ],
+    "series": "Художники - Москве",
+    "name": null
+  },
+  "2853": {
+    "image": "images/2853.png",
+    "value": 25,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39317.aspx",
+    "categories": [
+      "Культура и искусство"
+    ],
+    "series": "Художники - Москве",
+    "name": null
+  },
+  "2854": {
+    "image": "images/2854.png",
+    "value": 25,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39317.aspx",
+    "categories": [
+      "Культура и искусство"
+    ],
+    "series": "Художники - Москве",
+    "name": null
+  },
+  "2855": {
+    "image": "images/2855.png",
+    "value": 25,
+    "year": 2021,
+    "page": "https://rusmarka.ru/catalog/marki/position/39317.aspx",
+    "categories": [
+      "Культура и искусство"
+    ],
+    "series": "Художники - Москве",
+    "name": null
   }
 }
