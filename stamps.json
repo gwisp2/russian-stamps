@@ -32072,5 +32072,49 @@
     ],
     "series": null,
     "name": "Выпуск по программе «Европа». Истории и мифы"
+  },
+  "2860": {
+    "image": "images/2860.png",
+    "value": 25.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39407.aspx",
+    "categories": [
+      "Фауна"
+    ],
+    "series": "Фауна России. Певчие птицы",
+    "name": "Черноголовая овсянка"
+  },
+  "2861": {
+    "image": "images/2861.png",
+    "value": 25.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39407.aspx",
+    "categories": [
+      "Фауна"
+    ],
+    "series": "Фауна России. Певчие птицы",
+    "name": "Желтоголовый королёк"
+  },
+  "2862": {
+    "image": "images/2862.png",
+    "value": 25.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39407.aspx",
+    "categories": [
+      "Фауна"
+    ],
+    "series": "Фауна России. Певчие птицы",
+    "name": "Сойка"
+  },
+  "2863": {
+    "image": "images/2863.png",
+    "value": 25.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39407.aspx",
+    "categories": [
+      "Фауна"
+    ],
+    "series": "Фауна России. Певчие птицы",
+    "name": "Зарянка"
   }
 }
