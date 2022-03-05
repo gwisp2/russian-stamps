@@ -32204,5 +32204,64 @@
     ],
     "series": "Серия \"Герои Российской Федерации\"",
     "name": "Герой Российской Федерации А.И. Отраковский (1947-2000)"
+  },
+  "2872": {
+    "image": "images/2872.png",
+    "value": 40.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39495.aspx",
+    "categories": [
+      "История"
+    ],
+    "series": "Кавалеры ордена \"За заслуги перед Отечеством\"",
+    "name": "В.Ф. Яковлев (1932-2018), государственный деятель, юрист"
+  },
+  "2873": {
+    "image": "images/2873.png",
+    "value": 59.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39512.aspx",
+    "categories": [
+      "Праздники",
+      "Флора"
+    ],
+    "series": "Серия \"Флора России. Цветы. Розы\"",
+    "name": "Благовест"
+  },
+  "2874": {
+    "image": "images/2874.png",
+    "value": 59.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39512.aspx",
+    "categories": [
+      "Праздники",
+      "Флора"
+    ],
+    "series": "Серия \"Флора России. Цветы. Розы\"",
+    "name": "Полька-бабочка"
+  },
+  "2875": {
+    "image": "images/2875.png",
+    "value": 59.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39512.aspx",
+    "categories": [
+      "Праздники",
+      "Флора"
+    ],
+    "series": "Серия \"Флора России. Цветы. Розы\"",
+    "name": "Феодосийская красавица"
+  },
+  "2876": {
+    "image": "images/2876.png",
+    "value": 59.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39512.aspx",
+    "categories": [
+      "Праздники",
+      "Флора"
+    ],
+    "series": "Серия \"Флора России. Цветы. Розы\"",
+    "name": "Эмми"
   }
 }
