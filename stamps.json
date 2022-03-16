@@ -32263,5 +32263,16 @@
     ],
     "series": "Серия \"Флора России. Цветы. Розы\"",
     "name": "Эмми"
+  },
+  "2877": {
+    "image": "images/2877.png",
+    "value": 50.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39530.aspx",
+    "categories": [
+      "Россия. Регионы"
+    ],
+    "series": null,
+    "name": ""
   }
 }
