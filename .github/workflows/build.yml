@@ -22,9 +22,9 @@ jobs:
     - name: Install helper scripts
       run: pushd scripts && ./setup.py install --user && popd
     - name: Resize stamp images
-      run: '"/home/runner/.local/bin/sfs" resize-images --datadir=./data --size 512'
-    - name: 'Rename images (so that users forgot cached versions)'
-      run: '"/home/runner/.local/bin/sfs" rename-images --datadir=./data --format {filename}@v2.{ext}'
+      run: '"/home/runner/.local/bin/sfs" images resize --db=./data --size=512'
+    - name: 'Add hashes to images'
+      run: '"/home/runner/.local/bin/sfs" images rename --db=./data'
     - name: Install SSH key
       uses: shimataro/ssh-key-action@v2
       with:
