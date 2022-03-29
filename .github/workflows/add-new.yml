@@ -26,7 +26,7 @@ jobs:
     - name: Install helper scripts
       run: pushd scripts && ./setup.py install --user && popd
     - name: Find new stamps
-      run: '"/home/runner/.local/bin/sfs" stamps scrape --db=./data
+      run: '"/home/runner/.local/bin/sfs" stamps scrape --db=./data'
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v3
       with:
