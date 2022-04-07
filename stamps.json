@@ -32336,5 +32336,14 @@
     "categories": [],
     "series": null,
     "name": "Тарифная марка \"59 рублей\""
+  },
+  "2888": {
+    "image": "images/2888.png",
+    "value": 40.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39621.aspx",
+    "categories": [],
+    "series": null,
+    "name": "Совместный выпуск Администраций связи стран-членов РСС. Парки и сады. Главный ботанический сад им. Н.В. Цицина Российской академии наук"
   }
 }
