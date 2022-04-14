@@ -21,12 +21,12 @@ jobs:
     - name: Checkout helper scripts repository
       uses: actions/checkout@v2
       with:
-        repository: gwisp2/stamp-finder-scripts
-        path: scripts
+        repository: gwisp2/stamp-finder-monorepo
+        path: sf
     - name: Install helper scripts
-      run: pushd scripts && ./setup.py install --user && popd
+      run: pushd sf/backend && ./setup.py install --user && popd
     - name: Find new stamps
-      run: '"/home/runner/.local/bin/sfs" stamps scrape-new --db=./data'
+      run: '"/home/runner/.local/bin/sf" stamps scrape-new --db=./data'
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v3
       with:
