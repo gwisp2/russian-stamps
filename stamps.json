@@ -32337,6 +32337,42 @@
     "series": null,
     "name": "Тарифная марка \"59 рублей\""
   },
+  "2884": {
+    "image": "images/2884.png",
+    "value": 50.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39649.aspx",
+    "categories": [],
+    "series": "Серия \"Флора России. Ягоды\"",
+    "name": "Клюква"
+  },
+  "2885": {
+    "image": "images/2885.png",
+    "value": 50.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39649.aspx",
+    "categories": [],
+    "series": "Серия \"Флора России. Ягоды\"",
+    "name": "Кизил"
+  },
+  "2886": {
+    "image": "images/2886.png",
+    "value": 50.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39649.aspx",
+    "categories": [],
+    "series": "Серия \"Флора России. Ягоды\"",
+    "name": "Брусника"
+  },
+  "2887": {
+    "image": "images/2887.png",
+    "value": 50.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/39649.aspx",
+    "categories": [],
+    "series": "Серия \"Флора России. Ягоды\"",
+    "name": "Княженика арктическая"
+  },
   "2888": {
     "image": "images/2888.png",
     "value": 40.0,
