@@ -32687,5 +32687,41 @@
     "categories": [],
     "series": null,
     "name": "День семьи, любви и верности"
+  },
+  "2923": {
+    "image": "images/2923.png",
+    "value": 25.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/40163.aspx",
+    "categories": [],
+    "series": "История отечественного тракторостроения. Колёсные тракторы",
+    "name": "Трактор \"Карлик\". 1924 г."
+  },
+  "2924": {
+    "image": "images/2924.png",
+    "value": 25.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/40163.aspx",
+    "categories": [],
+    "series": "История отечественного тракторостроения. Колёсные тракторы",
+    "name": "Трактор СТЗ-15/30. 1930 г."
+  },
+  "2925": {
+    "image": "images/2925.png",
+    "value": 25.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/40163.aspx",
+    "categories": [],
+    "series": "История отечественного тракторостроения. Колёсные тракторы",
+    "name": "Трактор \"Владимирец\". Т-25А. 1973 г."
+  },
+  "2926": {
+    "image": "images/2926.png",
+    "value": 25.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/40163.aspx",
+    "categories": [],
+    "series": "История отечественного тракторостроения. Колёсные тракторы",
+    "name": "Трактор \"Кировец\". К-7М. 2020 г."
   }
 }
