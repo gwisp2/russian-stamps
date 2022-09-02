@@ -32894,5 +32894,23 @@
     "categories": [],
     "series": null,
     "name": "450 лет битве при Молодях"
+  },
+  "2946": {
+    "image": "images/2946.png",
+    "value": 200.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/40332.aspx",
+    "categories": [],
+    "series": null,
+    "name": "875 лет Москве"
+  },
+  "2947": {
+    "image": "images/2947.png",
+    "value": 100.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/40333.aspx",
+    "categories": [],
+    "series": null,
+    "name": "875 лет Москве (надпечатка текста и номинала на блоке)"
   }
 }
