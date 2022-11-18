@@ -33254,5 +33254,41 @@
     "categories": [],
     "series": null,
     "name": "Седьмой выпуск стандартных марок «Орлы». 3,5 рубля"
+  },
+  "2986": {
+    "image": "images/2986.png",
+    "value": 40.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/40795.aspx",
+    "categories": [],
+    "series": null,
+    "name": "Серия \"Кавалеры ордена \"За заслуги перед Отечеством\". Кобзон И.Д. (1937-2018)"
+  },
+  "2987": {
+    "image": "images/2987.png",
+    "value": 60.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/40797.aspx",
+    "categories": [],
+    "series": null,
+    "name": "Серия «Национальные проекты России». Экология"
+  },
+  "2988": {
+    "image": "images/2988.png",
+    "value": 65.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/40949.aspx",
+    "categories": [],
+    "series": "Курорты Северного Кавказа",
+    "name": "Курорт «Архыз»"
+  },
+  "2989": {
+    "image": "images/2989.png",
+    "value": 65.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/40949.aspx",
+    "categories": [],
+    "series": "Курорты Северного Кавказа",
+    "name": "Курорт «Эльбрус»"
   }
 }
