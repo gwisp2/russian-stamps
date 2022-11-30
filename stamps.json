@@ -33371,5 +33371,32 @@
     "categories": [],
     "series": null,
     "name": "Серия «Декоративно-прикладное искусство России». Матрёшка"
+  },
+  "2999": {
+    "image": "images/2999.png",
+    "value": 30.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/41098.aspx",
+    "categories": [],
+    "series": null,
+    "name": "Серия «Виды спорта». Шахматы"
+  },
+  "3000": {
+    "image": "images/3000.png",
+    "value": 150.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/41100.aspx",
+    "categories": [],
+    "series": null,
+    "name": "125 лет со дня рождения И.И. Дубасова (1897–1988), художника"
+  },
+  "3001": {
+    "image": "images/3001.png",
+    "value": 60.0,
+    "year": 2022,
+    "page": "https://rusmarka.ru/catalog/marki/position/41103.aspx",
+    "categories": [],
+    "series": null,
+    "name": "Серия «Большой Кремлёвский дворец». Владимирский зал"
   }
 }
