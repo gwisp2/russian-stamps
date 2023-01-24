@@ -33560,5 +33560,23 @@
     "categories": [],
     "series": null,
     "name": "Серия «Виды спорта». Футбол"
+  },
+  "3020": {
+    "image": "images/3020.png",
+    "value": 50.0,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/41349.aspx",
+    "categories": [],
+    "series": null,
+    "name": "250 лет Санкт-Петербургскому горному университету"
+  },
+  "3021": {
+    "image": "images/3021.png",
+    "value": 175.0,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/41353.aspx",
+    "categories": [],
+    "series": null,
+    "name": "Российская академия художеств. 175 лет со дня рождения В.И. Сурикова (1848–1916), художника"
   }
 }
