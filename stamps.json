@@ -33776,5 +33776,14 @@
     "categories": [],
     "series": "Серия «Флора России. Первоцветные»",
     "name": "Первоцвет Юлии"
+  },
+  "3044": {
+    "image": "images/3044.png",
+    "value": 50.0,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/41562.aspx",
+    "categories": [],
+    "series": null,
+    "name": "100 лет со дня рождения Н.В. Сторча (1923–2002), военачальника"
   }
 }
