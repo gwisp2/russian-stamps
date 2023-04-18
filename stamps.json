@@ -33839,5 +33839,23 @@
     "categories": [],
     "series": null,
     "name": "День космонавтики"
+  },
+  "3051": {
+    "image": "images/3051.png",
+    "value": 27.0,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/41719.aspx",
+    "categories": [],
+    "series": null,
+    "name": "100 лет Всероссийскому физкультурно-спортивному обществу «Динамо»"
+  },
+  "3053": {
+    "image": "images/3053.png",
+    "value": 150.0,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/41716.aspx",
+    "categories": [],
+    "series": null,
+    "name": "Принятие Крыма, Тамани и Кубани в состав Российской империи. 1783 г."
   }
 }
