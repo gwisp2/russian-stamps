@@ -31848,7 +31848,6 @@
     "year": 2020,
     "page": "https://rusmarka.ru/catalog/marki/position/36973.aspx",
     "categories": [
-      "История",
       "Наука и образование"
     ],
     "series": "Палеонтологическое наследие России",
@@ -31861,7 +31860,6 @@
     "year": 2020,
     "page": "https://rusmarka.ru/catalog/marki/position/36973.aspx",
     "categories": [
-      "История",
       "Наука и образование"
     ],
     "series": "Палеонтологическое наследие России",
@@ -31874,7 +31872,6 @@
     "year": 2020,
     "page": "https://rusmarka.ru/catalog/marki/position/36973.aspx",
     "categories": [
-      "История",
       "Наука и образование"
     ],
     "series": "Палеонтологическое наследие России",
@@ -31887,7 +31884,6 @@
     "year": 2020,
     "page": "https://rusmarka.ru/catalog/marki/position/36973.aspx",
     "categories": [
-      "История",
       "Наука и образование"
     ],
     "series": "Палеонтологическое наследие России",
@@ -31900,7 +31896,8 @@
     "year": 2020,
     "page": "https://rusmarka.ru/catalog/marki/position/37047.aspx",
     "categories": [
-      "Промышленность"
+      "Промышленность",
+      "Транспорт"
     ],
     "name": "150 лет акционерному обществу «Раскат»"
   },
@@ -35275,6 +35272,8 @@
     "year": 2022,
     "page": "https://rusmarka.ru/catalog/marki/position/40180.aspx",
     "categories": [
+      "Государство и власть",
+      "История",
       "Регионы",
       "Серии"
     ],
@@ -35387,6 +35386,8 @@
     "year": 2022,
     "page": "https://rusmarka.ru/catalog/marki/position/40281.aspx",
     "categories": [
+      "Государство и власть",
+      "История",
       "Регионы",
       "Серии"
     ],
@@ -35549,6 +35550,8 @@
     "year": 2022,
     "page": "https://rusmarka.ru/catalog/marki/position/40335.aspx",
     "categories": [
+      "Государство и власть",
+      "История",
       "Регионы",
       "Серии"
     ],
@@ -35792,6 +35795,8 @@
     "year": 2022,
     "page": "https://rusmarka.ru/catalog/marki/position/40556.aspx",
     "categories": [
+      "Государство и власть",
+      "История",
       "Регионы",
       "Серии"
     ],
@@ -36378,6 +36383,8 @@
     "year": 2022,
     "page": "https://rusmarka.ru/catalog/marki/position/41244.aspx",
     "categories": [
+      "Государство и власть",
+      "История",
       "Регионы",
       "Серии"
     ],
@@ -37063,11 +37070,54 @@
     "year": 2023,
     "page": "https://rusmarka.ru/catalog/marki/position/41897.aspx",
     "categories": [
+      "Государство и власть",
       "История",
       "Новинки",
       "Регионы",
       "Серии"
     ],
     "name": "100 лет Республике Бурятия"
+  },
+  {
+    "id": 3070,
+    "image": "images/3070.png",
+    "value": 27,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/41910.aspx",
+    "categories": [
+      "Новинки",
+      "Промышленность",
+      "Серии",
+      "Транспорт"
+    ],
+    "name": "Серия «Отечественная дорожно-строительная техника». № 3070 Грунтовой каток DM-614."
+  },
+  {
+    "id": 3071,
+    "image": "images/3071.png",
+    "value": 27,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/41910.aspx",
+    "categories": [
+      "Новинки",
+      "Промышленность",
+      "Серии",
+      "Транспорт"
+    ],
+    "name": "Серия «Отечественная дорожно-строительная техника». № 3071 Автогрейдер UMG АГ-140."
+  },
+  {
+    "id": 3073,
+    "image": "images/3073.png",
+    "value": 27,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/41910.aspx",
+    "categories": [
+      "Новинки",
+      "Промышленность",
+      "Серии",
+      "Транспорт"
+    ],
+    "name": "Серия «Отечественная дорожно-строительная техника». № 3073 Фронтальный погрузчик ЧЕТРА ПК12."
   }
 ]
