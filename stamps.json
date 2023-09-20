@@ -28007,6 +28007,7 @@
     "year": 2018,
     "page": "https://rusmarka.ru/catalog/marki/position/34017.aspx",
     "categories": [
+      "Дополненная реальность",
       "Культура и искусство",
       "Регионы"
     ],
@@ -28267,6 +28268,7 @@
     "year": 2018,
     "page": "https://rusmarka.ru/catalog/marki/position/34374.aspx",
     "categories": [
+      "Дополненная реальность",
       "Праздники"
     ],
     "name": "С Новым годом!"
@@ -28596,6 +28598,7 @@
     "year": 2019,
     "page": "https://rusmarka.ru/catalog/marki/position/34634.aspx",
     "categories": [
+      "Дополненная реальность",
       "Наука и образование",
       "Природа",
       "Серии",
@@ -31077,6 +31080,7 @@
     "year": 2020,
     "page": "https://rusmarka.ru/catalog/marki/position/37366.aspx",
     "categories": [
+      "Дополненная реальность",
       "История",
       "Культура и искусство",
       "Серии"
@@ -32631,6 +32635,7 @@
     "year": 2021,
     "page": "https://rusmarka.ru/catalog/marki/position/38327.aspx",
     "categories": [
+      "Дополненная реальность",
       "Культура и искусство",
       "Регионы"
     ],
@@ -36370,6 +36375,8 @@
     "year": 2023,
     "page": "https://rusmarka.ru/catalog/marki/position/41768.aspx",
     "categories": [
+      "Дополненная реальность",
+      "Культура и искусство",
       "Персоны"
     ],
     "name": "200 лет со дня рождения А.Н. Островского (1823–1886), драматурга"
@@ -36689,6 +36696,7 @@
     "year": 2023,
     "page": "https://rusmarka.ru/catalog/marki/position/42009.aspx",
     "categories": [
+      "Дополненная реальность",
       "Культура и искусство",
       "Серии"
     ],
@@ -36701,6 +36709,7 @@
     "year": 2023,
     "page": "https://rusmarka.ru/catalog/marki/position/42009.aspx",
     "categories": [
+      "Дополненная реальность",
       "Культура и искусство",
       "Серии"
     ],
@@ -37041,5 +37050,17 @@
       "Серии"
     ],
     "name": "Серия «Выдающиеся юристы России». 100 лет со дня рождения В.Н. Кудрявцева (1923–2007), учёного-правоведа"
+  },
+  {
+    "id": 3110,
+    "image": "images/3110.png",
+    "value": 27,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42356.aspx",
+    "categories": [
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Россия. Регионы. Запорожская область"
   }
 ]
