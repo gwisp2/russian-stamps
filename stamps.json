@@ -53016,8 +53016,8 @@
   },
   {
     "id": 3136,
-    "image": null,
-    "value": 0,
+    "image": "images/3136.png",
+    "value": 250,
     "year": 2023,
     "page": "https://rusmarka.ru/catalog/marki/position/42571.aspx",
     "categories": [
@@ -53025,6 +53025,8 @@
       "Религия",
       "Серии"
     ],
+    "series": "Монастыри Русской православной церкви.",
+    "name": "550 лет Свято-Успенскому Псково-Печерскому монастырю",
     "shape": {
       "type": "rect",
       "w": 65,
