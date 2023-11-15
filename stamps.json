@@ -53013,5 +53013,23 @@
       "h": 42,
       "originalText": "30 × 42 мм"
     }
+  },
+  {
+    "id": 3136,
+    "image": null,
+    "value": 0,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42571.aspx",
+    "categories": [
+      "Новинки",
+      "Религия",
+      "Серии"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
+    }
   }
 ]
