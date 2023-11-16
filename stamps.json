@@ -53033,5 +53033,24 @@
       "h": 32.5,
       "originalText": "65 × 32,5 мм"
     }
+  },
+  {
+    "id": 3137,
+    "image": "images/3137.png",
+    "value": 30,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42574.aspx",
+    "categories": [
+      "Новинки",
+      "Серии",
+      "Спорт"
+    ],
+    "name": "Серия «Виды спорта». Самбо",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
   }
 ]
