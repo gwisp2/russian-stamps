@@ -53052,5 +53052,23 @@
       "h": 37,
       "originalText": "37 × 37 мм"
     }
+  },
+  {
+    "id": 3138,
+    "image": "images/3138.png",
+    "value": 60,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42577.aspx",
+    "categories": [
+      "Государство и власть",
+      "Новинки"
+    ],
+    "name": "100 лет службе участковых уполномоченных полиции",
+    "shape": {
+      "type": "rect",
+      "w": 50,
+      "h": 37,
+      "originalText": "50 × 37 мм"
+    }
   }
 ]
