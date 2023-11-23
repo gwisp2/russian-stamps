@@ -53070,5 +53070,100 @@
       "h": 37,
       "originalText": "50 × 37 мм"
     }
+  },
+  {
+    "id": 3141,
+    "image": "images/3141.png",
+    "value": 20,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42585.aspx",
+    "categories": [
+      "Наука и образование",
+      "Новинки",
+      "Персоны",
+      "Транспорт"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3142,
+    "image": "images/3142.png",
+    "value": 20,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42585.aspx",
+    "categories": [
+      "Наука и образование",
+      "Новинки",
+      "Персоны",
+      "Транспорт"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3143,
+    "image": "images/3143.png",
+    "value": 20,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42585.aspx",
+    "categories": [
+      "Наука и образование",
+      "Новинки",
+      "Персоны",
+      "Транспорт"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3144,
+    "image": "images/3144.png",
+    "value": 20,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42585.aspx",
+    "categories": [
+      "Наука и образование",
+      "Новинки",
+      "Персоны",
+      "Транспорт"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3145,
+    "image": "images/3145.png",
+    "value": 20,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42585.aspx",
+    "categories": [
+      "Наука и образование",
+      "Новинки",
+      "Персоны",
+      "Транспорт"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
   }
 ]
