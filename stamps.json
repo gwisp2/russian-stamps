@@ -53165,5 +53165,23 @@
       "h": 30,
       "originalText": "42 × 30 мм"
     }
+  },
+  {
+    "id": 3146,
+    "image": "images/3146.png",
+    "value": 27,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42618.aspx",
+    "categories": [
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Россия. Регионы. Херсонская область",
+    "shape": {
+      "type": "rect",
+      "w": 40,
+      "h": 28,
+      "originalText": "40 × 28 мм"
+    }
   }
 ]
