@@ -53327,5 +53327,115 @@
       "d": 30,
       "originalText": "круглая, диаметр 30 мм"
     }
+  },
+  {
+    "id": 3158,
+    "image": "images/3158.png",
+    "value": 20,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42727.aspx",
+    "categories": [
+      "Новинки",
+      "Связь"
+    ],
+    "name": "Герои детской телепередачи «Спокойной ночи, малыши!». № 3158 \"Хрюша\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3159,
+    "image": "images/3159.png",
+    "value": 20,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42727.aspx",
+    "categories": [
+      "Новинки",
+      "Связь"
+    ],
+    "name": "Герои детской телепередачи «Спокойной ночи, малыши!». № 3159 \"Степашка\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3160,
+    "image": "images/3160.png",
+    "value": 20,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42727.aspx",
+    "categories": [
+      "Новинки",
+      "Связь"
+    ],
+    "name": "Герои детской телепередачи «Спокойной ночи, малыши!». № 3160 \"Филя\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3161,
+    "image": "images/3161.png",
+    "value": 20,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42727.aspx",
+    "categories": [
+      "Новинки",
+      "Связь"
+    ],
+    "name": "Герои детской телепередачи «Спокойной ночи, малыши!». № 3161 \"Каркуша\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3162,
+    "image": "images/3162.png",
+    "value": 50,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42732.aspx",
+    "categories": [
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "name": "Серия «Кавалеры ордена \"За заслуги перед Отечеством\"». Ю.М. Лужков (1936–2019)",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3163,
+    "image": "images/3163.png",
+    "value": 50,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42733.aspx",
+    "categories": [
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "name": "Серия «Кавалеры ордена \"За заслуги перед Отечеством\"». В.В. Жириновский (1946–2022)",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
   }
 ]
