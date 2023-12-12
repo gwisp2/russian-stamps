@@ -53312,6 +53312,25 @@
     }
   },
   {
+    "id": 3156,
+    "image": "images/3156.png",
+    "value": 63,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42752.aspx",
+    "categories": [
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "name": "Серия «Выдающиеся юристы России». 100 лет со дня рождения А.Я. Сухарева (1923–2021), учёного-правоведа, государственного деятеля",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
     "id": 3157,
     "image": "images/3157.png",
     "value": 29,
@@ -53626,6 +53645,78 @@
       "w": 42,
       "h": 30,
       "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3174,
+    "image": "images/3174.png",
+    "value": 65,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42761.aspx",
+    "categories": [
+      "Государство и власть",
+      "Новинки"
+    ],
+    "name": "Профессии сотрудников МЧС России. № 3174 \"Авиационно-спасательная служба МЧС России\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3175,
+    "image": "images/3175.png",
+    "value": 65,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42761.aspx",
+    "categories": [
+      "Государство и власть",
+      "Новинки"
+    ],
+    "name": "Профессии сотрудников МЧС России. № 3175 \"Государственная инспекция по маломерным судам МЧС России\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3176,
+    "image": "images/3176.png",
+    "value": 65,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42761.aspx",
+    "categories": [
+      "Государство и власть",
+      "Новинки"
+    ],
+    "name": "Профессии сотрудников МЧС России. № 3176 \"Кинологическая служба МЧС России\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3177,
+    "image": "images/3177.png",
+    "value": 65,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42761.aspx",
+    "categories": [
+      "Государство и власть",
+      "Новинки"
+    ],
+    "name": "Профессии сотрудников МЧС России. № 3177 \"Пожарно-спасательная служба МЧС России\".",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
     }
   }
 ]
