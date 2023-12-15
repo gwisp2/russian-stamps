@@ -53754,5 +53754,24 @@
       "h": 28,
       "originalText": "40 × 28 мм"
     }
+  },
+  {
+    "id": 3180,
+    "image": "images/3180.png",
+    "value": 30,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42785.aspx",
+    "categories": [
+      "Новинки",
+      "Серии",
+      "Спорт"
+    ],
+    "name": "Серия «Виды спорта». Волейбол",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
   }
 ]
