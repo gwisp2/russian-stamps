@@ -53773,5 +53773,64 @@
       "h": 37,
       "originalText": "37 × 37 мм"
     }
+  },
+  {
+    "id": 3181,
+    "image": null,
+    "value": 0,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42789.aspx",
+    "categories": [
+      "Новинки",
+      "Природа",
+      "Регионы",
+      "Серии",
+      "Туризм и отдых"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 30,
+      "h": 42,
+      "originalText": "30 × 42 мм"
+    }
+  },
+  {
+    "id": 3182,
+    "image": null,
+    "value": 0,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42789.aspx",
+    "categories": [
+      "Новинки",
+      "Природа",
+      "Регионы",
+      "Серии",
+      "Туризм и отдых"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 30,
+      "h": 42,
+      "originalText": "30 × 42 мм"
+    }
+  },
+  {
+    "id": 3183,
+    "image": "images/3183.png",
+    "value": 67,
+    "year": 2023,
+    "page": "https://rusmarka.ru/catalog/marki/position/42797.aspx",
+    "categories": [
+      "Государство и власть",
+      "Культура и искусство",
+      "Новинки"
+    ],
+    "name": "50 лет Академическому ансамблю песни и пляски войск национальной гвардии Российской Федерации",
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
+    }
   }
 ]
