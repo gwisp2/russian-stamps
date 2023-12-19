@@ -53776,8 +53776,8 @@
   },
   {
     "id": 3181,
-    "image": null,
-    "value": 0,
+    "image": "images/3181.png",
+    "value": 29,
     "year": 2023,
     "page": "https://rusmarka.ru/catalog/marki/position/42789.aspx",
     "categories": [
@@ -53787,6 +53787,8 @@
       "Серии",
       "Туризм и отдых"
     ],
+    "name": "Республика Саха (Якутия)",
+    "series": "Арктический туризм",
     "shape": {
       "type": "rect",
       "w": 30,
@@ -53796,8 +53798,8 @@
   },
   {
     "id": 3182,
-    "image": null,
-    "value": 0,
+    "image": "images/3182.png",
+    "value": 67,
     "year": 2023,
     "page": "https://rusmarka.ru/catalog/marki/position/42789.aspx",
     "categories": [
@@ -53807,6 +53809,8 @@
       "Серии",
       "Туризм и отдых"
     ],
+    "name": "Республика Саха (Якутия)",
+    "series": "Арктический туризм",
     "shape": {
       "type": "rect",
       "w": 30,
