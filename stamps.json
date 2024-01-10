@@ -53826,6 +53826,7 @@
     "page": "https://rusmarka.ru/catalog/marki/position/42797.aspx",
     "categories": [
       "Государство и власть",
+      "Дополненная реальность",
       "Культура и искусство",
       "Новинки"
     ],
@@ -53975,6 +53976,24 @@
       "w": 37,
       "h": 50,
       "originalText": "37 × 50 мм"
+    }
+  },
+  {
+    "id": 3191,
+    "image": "images/3191.png",
+    "value": 100,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/42826.aspx",
+    "categories": [
+      "Новинки",
+      "Связь"
+    ],
+    "name": "100 лет газете «Красная звезда»",
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
     }
   }
 ]
