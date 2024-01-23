@@ -25614,7 +25614,9 @@
     "value": 15,
     "year": 2011,
     "page": "https://rusmarka.ru/catalog/marki/position/22493.aspx",
-    "categories": [],
+    "categories": [
+      "Серии"
+    ],
     "series": "Серия «Кавалеры ордена Святого апостола Андрея Первозванного»",
     "name": "Людмила Зыкина",
     "shape": {
@@ -25629,7 +25631,9 @@
     "value": 15,
     "year": 2011,
     "page": "https://rusmarka.ru/catalog/marki/position/22493.aspx",
-    "categories": [],
+    "categories": [
+      "Серии"
+    ],
     "series": "Серия «Кавалеры ордена Святого апостола Андрея Первозванного»",
     "name": "Дмитрий Лихачёв",
     "shape": {
@@ -25644,7 +25648,9 @@
     "value": 15,
     "year": 2011,
     "page": "https://rusmarka.ru/catalog/marki/position/22493.aspx",
-    "categories": [],
+    "categories": [
+      "Серии"
+    ],
     "series": "Серия «Кавалеры ордена Святого апостола Андрея Первозванного»",
     "name": "Борис Петровский",
     "shape": {
@@ -27138,7 +27144,9 @@
     "value": 15,
     "year": 2012,
     "page": "https://rusmarka.ru/catalog/marki/position/23775.aspx",
-    "categories": [],
+    "categories": [
+      "Серии"
+    ],
     "series": "Серия \"Кавалеры Ордена Святого апостола Андрея Первозванного\"",
     "name": "Патриарх Алексий II",
     "shape": {
@@ -27153,7 +27161,9 @@
     "value": 15,
     "year": 2012,
     "page": "https://rusmarka.ru/catalog/marki/position/23775.aspx",
-    "categories": [],
+    "categories": [
+      "Серии"
+    ],
     "series": "Серия \"Кавалеры Ордена Святого апостола Андрея Первозванного\"",
     "name": "И.К Архипова",
     "shape": {
@@ -27168,7 +27178,9 @@
     "value": 15,
     "year": 2012,
     "page": "https://rusmarka.ru/catalog/marki/position/23775.aspx",
-    "categories": [],
+    "categories": [
+      "Серии"
+    ],
     "series": "Серия \"Кавалеры Ордена Святого апостола Андрея Первозванного\"",
     "name": "В.И.Шумаков",
     "shape": {
@@ -29312,7 +29324,8 @@
     "year": 2013,
     "page": "https://rusmarka.ru/catalog/marki/position/26041.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Серии"
     ],
     "name": "Кавалеры ордена Святого апостола Андрея Первозванного.  С.В. Михалков (1913–2009), поэт, писатель",
     "shape": {
@@ -31687,7 +31700,9 @@
     "value": 15,
     "year": 2014,
     "page": "https://rusmarka.ru/catalog/marki/position/27740.aspx",
-    "categories": [],
+    "categories": [
+      "Серии"
+    ],
     "name": "Кавалеры ордена Святого апостола Андрея Первозванного.  М.Т. Калашников (1919–2013), конструктор стрелкового оружия",
     "shape": {
       "type": "rect",
@@ -37577,7 +37592,8 @@
     "year": 2017,
     "page": "https://rusmarka.ru/catalog/marki/position/32212.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Серии"
     ],
     "name": "Кавалеры ордена Святого апостола Андрея Первозванного. Ф.Г. Алиева (1932–2016), поэт, прозаик",
     "shape": {
@@ -40684,7 +40700,8 @@
     "page": "https://rusmarka.ru/catalog/marki/position/34569.aspx",
     "categories": [
       "Культура и искусство",
-      "Персоны"
+      "Персоны",
+      "Серии"
     ],
     "name": "Кавалеры ордена Святого апостола Андрея Первозванного. Д.А. Гранин (1919–2017), писатель",
     "shape": {
@@ -53989,6 +54006,25 @@
       "Связь"
     ],
     "name": "100 лет газете «Красная звезда»",
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
+    }
+  },
+  {
+    "id": 3192,
+    "image": "images/3192.png",
+    "value": 67,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/42864.aspx",
+    "categories": [
+      "Новинки",
+      "Религия",
+      "Серии"
+    ],
+    "name": "Серия «Монастыри Русской православной церкви». Высоцкий монастырь",
     "shape": {
       "type": "rect",
       "w": 65,
