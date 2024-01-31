@@ -54108,5 +54108,22 @@
       "h": 35,
       "originalText": "35 × 35 мм"
     }
+  },
+  {
+    "id": 3197,
+    "image": null,
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/42891.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Регионы"
+    ],
+    "shape": {
+      "type": "circle",
+      "d": 33,
+      "originalText": "круглая, диаметр 33 мм"
+    }
   }
 ]
