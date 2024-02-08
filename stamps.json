@@ -54185,5 +54185,42 @@
       "h": 32.5,
       "originalText": "65 × 32,5 мм"
     }
+  },
+  {
+    "id": 3201,
+    "image": "images/3201.png",
+    "value": 67,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/42935.aspx",
+    "categories": [
+      "Наука и образование",
+      "Новинки",
+      "Регионы"
+    ],
+    "name": "300 лет Санкт-Петербургскому государственному университету",
+    "shape": {
+      "type": "rect",
+      "w": 36.5,
+      "h": 29,
+      "originalText": "36,5 × 29 мм"
+    }
+  },
+  {
+    "id": 3202,
+    "image": "images/3202.png",
+    "value": 150,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/42937.aspx",
+    "categories": [
+      "Наука и образование",
+      "Новинки",
+      "Персоны"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
   }
 ]
