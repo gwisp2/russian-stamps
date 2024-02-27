@@ -46613,7 +46613,8 @@
     "page": "https://rusmarka.ru/catalog/marki/position/38450.aspx",
     "categories": [
       "Культура и искусство",
-      "Персоны"
+      "Персоны",
+      "Регионы"
     ],
     "name": "100 лет музею-усадьбе \"Ясная Поляна\"",
     "shape": {
@@ -54219,6 +54220,42 @@
       "w": 24,
       "h": 34,
       "originalText": "24 × 34 мм"
+    }
+  },
+  {
+    "id": 3209,
+    "image": "images/3209.png",
+    "value": 29,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43038.aspx",
+    "categories": [
+      "Новинки",
+      "Стандартные и тарифные марки"
+    ],
+    "name": "Тарифная марка «29 рублей»",
+    "shape": {
+      "type": "rect",
+      "w": 20,
+      "h": 27.5,
+      "originalText": "20 × 27,5 мм"
+    }
+  },
+  {
+    "id": 3210,
+    "image": "images/3210.png",
+    "value": 67,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43039.aspx",
+    "categories": [
+      "Новинки",
+      "Стандартные и тарифные марки"
+    ],
+    "name": "Тарифная марка «67 рублей»",
+    "shape": {
+      "type": "rect",
+      "w": 25,
+      "h": 34,
+      "originalText": "25 × 34 мм"
     }
   }
 ]
