@@ -54257,5 +54257,24 @@
       "h": 34,
       "originalText": "25 × 34 мм"
     }
+  },
+  {
+    "id": 3211,
+    "image": "images/3211.png",
+    "value": 90,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43051.aspx",
+    "categories": [
+      "Государство и власть",
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Серия «Государственные награды Российской Федерации. Медали». Медаль «За храбрость»",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 50,
+      "originalText": "37 × 50 мм"
+    }
   }
 ]
