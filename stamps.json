@@ -54297,5 +54297,22 @@
       "h": 50,
       "originalText": "37 × 50 мм"
     }
+  },
+  {
+    "id": 3212,
+    "image": "images/3212.png",
+    "value": 70,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43085.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Связь"
+    ],
+    "name": "100 лет журналу «Мурзилка»",
+    "shape": {
+      "type": "unknown",
+      "originalText": "50 × 50 × 70 мм"
+    }
   }
 ]
