@@ -54436,5 +54436,24 @@
       "h": 65,
       "originalText": "32,5 × 65 мм"
     }
+  },
+  {
+    "id": 3219,
+    "image": "images/3219.png",
+    "value": 67,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43111.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Персоны"
+    ],
+    "name": "150 лет со дня рождения Н.А. Бердяева (1874–1948), философа, социолога",
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
   }
 ]
