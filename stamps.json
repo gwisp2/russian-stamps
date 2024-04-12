@@ -54816,5 +54816,26 @@
       "h": 37,
       "originalText": "37 × 37 мм"
     }
+  },
+  {
+    "id": 3233,
+    "image": "images/3233.png",
+    "value": 30,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43287.aspx",
+    "categories": [
+      "Космос и астрономия",
+      "Наука и образование",
+      "Новинки",
+      "Персоны",
+      "Праздники"
+    ],
+    "name": "День космонавтики",
+    "shape": {
+      "type": "rect",
+      "w": 32.5,
+      "h": 65,
+      "originalText": "32,5 × 65 мм"
+    }
   }
 ]
