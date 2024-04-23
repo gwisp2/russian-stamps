@@ -54856,5 +54856,137 @@
       "h": 35,
       "originalText": "35 × 35 мм"
     }
+  },
+  {
+    "id": 3235,
+    "image": "images/3235.png",
+    "value": 48,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43320.aspx",
+    "categories": [
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "name": "Серия «Герои Российской Федерации». В.Е. Ласточкин (1959–1995), М.Ю. Немыткин (1970–1995). № 3235 \"Герой Российской Федерации Ласточкин В.Е. (1959–1995), майор милиции\".",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3236,
+    "image": "images/3236.png",
+    "value": 48,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43320.aspx",
+    "categories": [
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "name": "Серия «Герои Российской Федерации». В.Е. Ласточкин (1959–1995), М.Ю. Немыткин (1970–1995). № 3236 \"Герой Российской Федерации Немыткин М.Ю. (1970–1995)\".",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3237,
+    "image": "images/3237.png",
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43325.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Персоны"
+    ],
+    "name": "225 лет взятию русской эскадрой под командованием Ф.Ф. Ушакова крепости Корфу (надпечатка на марке №2641 «275 лет со дня рождения Ф.Ф. Ушакова (1745−1817), флотоводца, адмирала»)",
+    "shape": {
+      "type": "rect",
+      "w": 50,
+      "h": 37,
+      "originalText": "50 × 37 мм"
+    }
+  },
+  {
+    "id": 3238,
+    "image": null,
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43355.aspx",
+    "categories": [
+      "Международное сотрудничество",
+      "Новинки",
+      "Природа",
+      "Туризм и отдых"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 50,
+      "originalText": "37 × 50 мм"
+    }
+  },
+  {
+    "id": 3239,
+    "image": "images/3239.png",
+    "value": 50,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43358.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Персоны"
+    ],
+    "name": "125 лет со дня рождения В.В. Набокова (1899–1977), писателя, поэта",
+    "shape": {
+      "type": "rect",
+      "w": 30,
+      "h": 42,
+      "originalText": "30 × 42 мм"
+    }
+  },
+  {
+    "id": 3240,
+    "image": "images/3240.png",
+    "value": 70,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43361.aspx",
+    "categories": [
+      "Наука и образование",
+      "Новинки",
+      "Персоны"
+    ],
+    "name": "300 лет со дня рождения И. Канта (1724–1804), философа",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 50,
+      "originalText": "37 × 50 мм"
+    }
+  },
+  {
+    "id": 3241,
+    "image": "images/3241.png",
+    "value": 200,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43370.aspx",
+    "categories": [
+      "Новинки",
+      "Стандартные и тарифные марки"
+    ],
+    "name": "Художественная марка «200 рублей»",
+    "shape": {
+      "type": "rect",
+      "w": 25,
+      "h": 34,
+      "originalText": "25 × 34 мм"
+    }
   }
 ]
