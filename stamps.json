@@ -55139,5 +55139,181 @@
       "h": 34,
       "originalText": "24 × 34 мм"
     }
+  },
+  {
+    "id": 3251,
+    "image": null,
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43433.aspx",
+    "categories": [
+      "Международное сотрудничество",
+      "Новинки",
+      "Природа",
+      "Туризм и отдых"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 50,
+      "originalText": "37 × 50 мм"
+    }
+  },
+  {
+    "id": 3252,
+    "image": null,
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43433.aspx",
+    "categories": [
+      "Международное сотрудничество",
+      "Новинки",
+      "Природа",
+      "Туризм и отдых"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 50,
+      "originalText": "37 × 50 мм"
+    }
+  },
+  {
+    "id": 3253,
+    "image": "images/3253.png",
+    "value": 29,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43436.aspx",
+    "categories": [
+      "Государство и власть",
+      "Новинки"
+    ],
+    "name": "Вступление в должность Президента Российской Федерации",
+    "shape": {
+      "type": "rect",
+      "w": 50,
+      "h": 37,
+      "originalText": "50 × 37 мм"
+    }
+  },
+  {
+    "id": 3254,
+    "image": "images/3254.png",
+    "value": 60,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43448.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Наука и образование",
+      "Новинки"
+    ],
+    "name": "100 лет Государственному центральному музею современной истории России",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3255,
+    "image": null,
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43455.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
+  },
+  {
+    "id": 3256,
+    "image": null,
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43455.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
+  },
+  {
+    "id": 3257,
+    "image": null,
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43455.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
+  },
+  {
+    "id": 3258,
+    "image": null,
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43455.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
+  },
+  {
+    "id": 3259,
+    "image": null,
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43455.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
   }
 ]
