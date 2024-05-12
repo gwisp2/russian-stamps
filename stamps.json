@@ -55322,5 +55322,25 @@
       "h": 35,
       "originalText": "35 × 35 мм"
     }
+  },
+  {
+    "id": 3260,
+    "image": null,
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43464.aspx",
+    "categories": [
+      "Новинки",
+      "Природа",
+      "Туризм и отдых",
+      "Фауна",
+      "Флора"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 26,
+      "h": 58,
+      "originalText": "26 × 58 мм"
+    }
   }
 ]
