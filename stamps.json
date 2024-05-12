@@ -55218,8 +55218,8 @@
   },
   {
     "id": 3255,
-    "image": null,
-    "value": 0,
+    "image": "images/3255.png",
+    "value": 80,
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/43455.aspx",
     "categories": [
@@ -55229,6 +55229,7 @@
       "Персоны",
       "Серии"
     ],
+    "name": "Писатели-фронтовики. 100 лет со дня рождения В.П. Астафьева",
     "shape": {
       "type": "rect",
       "w": 35,
@@ -55238,8 +55239,8 @@
   },
   {
     "id": 3256,
-    "image": null,
-    "value": 0,
+    "image": "images/3256.png",
+    "value": 80,
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/43455.aspx",
     "categories": [
@@ -55249,6 +55250,7 @@
       "Персоны",
       "Серии"
     ],
+    "name": "Писатели-фронтовики. 100 лет со дня рождения В.О. Богомолова",
     "shape": {
       "type": "rect",
       "w": 35,
@@ -55258,8 +55260,8 @@
   },
   {
     "id": 3257,
-    "image": null,
-    "value": 0,
+    "image": "images/3257.png",
+    "value": 80,
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/43455.aspx",
     "categories": [
@@ -55269,6 +55271,7 @@
       "Персоны",
       "Серии"
     ],
+    "name": "Писатели-фронтовики. 100 лет со дня рождения Ю.В. Бондарева",
     "shape": {
       "type": "rect",
       "w": 35,
@@ -55278,8 +55281,8 @@
   },
   {
     "id": 3258,
-    "image": null,
-    "value": 0,
+    "image": "images/3258.png",
+    "value": 80,
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/43455.aspx",
     "categories": [
@@ -55289,6 +55292,7 @@
       "Персоны",
       "Серии"
     ],
+    "name": "Писатели-фронтовики. 100 лет со дня рождения Б.Л. Васильева",
     "shape": {
       "type": "rect",
       "w": 35,
@@ -55298,8 +55302,8 @@
   },
   {
     "id": 3259,
-    "image": null,
-    "value": 0,
+    "image": "images/3259.png",
+    "value": 80,
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/43455.aspx",
     "categories": [
@@ -55309,6 +55313,7 @@
       "Персоны",
       "Серии"
     ],
+    "name": "Писатели-фронтовики. 100 лет со дня рождения Ю.В. Друниной",
     "shape": {
       "type": "rect",
       "w": 35,
