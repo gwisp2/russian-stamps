@@ -55325,8 +55325,8 @@
   },
   {
     "id": 3260,
-    "image": null,
-    "value": 0,
+    "image": "images/3260.png",
+    "value": 200,
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/43464.aspx",
     "categories": [
@@ -55336,6 +55336,7 @@
       "Фауна",
       "Флора"
     ],
+    "name": "100 лет Кавказскому государственному природному биосферному заповеднику",
     "shape": {
       "type": "rect",
       "w": 26,
