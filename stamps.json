@@ -55142,8 +55142,8 @@
   },
   {
     "id": 3251,
-    "image": null,
-    "value": 0,
+    "image": "images/3251.png",
+    "value": 75,
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/43433.aspx",
     "categories": [
@@ -55152,6 +55152,7 @@
       "Природа",
       "Туризм и отдых"
     ],
+    "name": "Всемирное наследие ЮНЕСКО. Петроглифы Онежского озера и Белого моря",
     "shape": {
       "type": "rect",
       "w": 37,
@@ -55161,8 +55162,8 @@
   },
   {
     "id": 3252,
-    "image": null,
-    "value": 0,
+    "image": "images/3252.png",
+    "value": 75,
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/43433.aspx",
     "categories": [
@@ -55171,6 +55172,7 @@
       "Природа",
       "Туризм и отдых"
     ],
+    "name": "Всемирное наследие ЮНЕСКО. Петроглифы Онежского озера и Белого моря",
     "shape": {
       "type": "rect",
       "w": 37,
