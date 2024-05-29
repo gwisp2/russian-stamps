@@ -55343,5 +55343,43 @@
       "h": 58,
       "originalText": "26 × 58 мм"
     }
+  },
+  {
+    "id": 3261,
+    "image": null,
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43481.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 30,
+      "h": 42,
+      "originalText": "30 × 42 мм"
+    }
+  },
+  {
+    "id": 3262,
+    "image": "images/3262.png",
+    "value": 85,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43483.aspx",
+    "categories": [
+      "Международное сотрудничество",
+      "Наука и образование",
+      "Новинки"
+    ],
+    "name": "Евразийский экономический союз",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
   }
 ]
