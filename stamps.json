@@ -55346,8 +55346,8 @@
   },
   {
     "id": 3261,
-    "image": null,
-    "value": 0,
+    "image": "images/3262.png",
+    "value": 170,
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/43481.aspx",
     "categories": [
@@ -55356,6 +55356,7 @@
       "Персоны",
       "Серии"
     ],
+    "name": "Российская академия художеств. 225 лет со дня рождения К.П. Брюллова (1799–1852), художника",
     "shape": {
       "type": "rect",
       "w": 30,
