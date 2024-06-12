@@ -55501,5 +55501,25 @@
       "h": 42,
       "originalText": "30 × 42 мм"
     }
+  },
+  {
+    "id": 3269,
+    "image": "images/3269.png",
+    "value": 67,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43561.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Праздники",
+      "Регионы"
+    ],
+    "name": "650 лет г. Кирову",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
   }
 ]
