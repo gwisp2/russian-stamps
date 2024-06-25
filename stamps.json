@@ -52608,6 +52608,7 @@
     "year": 2023,
     "page": "https://rusmarka.ru/catalog/marki/position/42373.aspx",
     "categories": [
+      "Дополненная реальность",
       "Природа",
       "Серии",
       "Спорт",
@@ -55539,6 +55540,25 @@
       "w": 37,
       "h": 50,
       "originalText": "37 × 50 мм"
+    }
+  },
+  {
+    "id": 3277,
+    "image": "images/3277.png",
+    "value": 250,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43598.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 39.5,
+      "h": 39.5,
+      "originalText": "39,5 × 39,5 мм"
     }
   }
 ]
