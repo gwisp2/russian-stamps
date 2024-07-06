@@ -55773,5 +55773,23 @@
       "h": 32.5,
       "originalText": "65 × 32,5 мм"
     }
+  },
+  {
+    "id": 3283,
+    "image": null,
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43634.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Регионы",
+      "Серии"
+    ],
+    "shape": {
+      "type": "circle",
+      "d": 33,
+      "originalText": "круглая, диаметр 33 мм"
+    }
   }
 ]
