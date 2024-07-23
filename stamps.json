@@ -55775,6 +55775,25 @@
     }
   },
   {
+    "id": 3282,
+    "image": "images/3282.png",
+    "value": 100,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43649.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Регионы",
+      "Серии"
+    ],
+    "name": "100 лет Республике Ингушетии",
+    "shape": {
+      "type": "circle",
+      "d": 33,
+      "originalText": "круглая, диаметр 33 мм"
+    }
+  },
+  {
     "id": 3283,
     "image": "images/3283.png",
     "value": 100,
@@ -55811,6 +55830,26 @@
       "w": 50,
       "h": 50,
       "originalText": "50 × 50 мм"
+    }
+  },
+  {
+    "id": 3285,
+    "image": "images/3285.png",
+    "value": 50,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43679.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Праздники",
+      "Регионы"
+    ],
+    "name": "950 лет г. Торопцу Тверской области",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
     }
   }
 ]
