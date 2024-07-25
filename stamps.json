@@ -55851,5 +55851,43 @@
       "h": 30,
       "originalText": "42 × 30 мм"
     }
+  },
+  {
+    "id": 3286,
+    "image": "images/3286.png",
+    "value": 50,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43684.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Серия «Маяки России». Ильинский маяк. Поворотный маяк. № 3286 \"Ильинский маяк\".",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3287,
+    "image": "images/3287.png",
+    "value": 50,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43684.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Серия «Маяки России». Ильинский маяк. Поворотный маяк. № 3287 \"Поворотный маяк\".",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
   }
 ]
