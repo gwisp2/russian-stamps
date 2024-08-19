@@ -56316,5 +56316,25 @@
       "h": 37,
       "originalText": "37 × 37 мм"
     }
+  },
+  {
+    "id": 3311,
+    "image": "images/3311.png",
+    "value": 50,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43793.aspx",
+    "categories": [
+      "Наука и образование",
+      "Новинки",
+      "Персоны",
+      "Связь"
+    ],
+    "name": "100 лет со дня рождения В.Н. Мацнева (1924–2023), учёного-связиста",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
+    }
   }
 ]
