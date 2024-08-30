@@ -56459,5 +56459,43 @@
       "h": 42,
       "originalText": "30 × 42 мм"
     }
+  },
+  {
+    "id": 3318,
+    "image": "images/3318.png",
+    "value": 72,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43835.aspx",
+    "categories": [
+      "Новинки",
+      "Религия",
+      "Серии"
+    ],
+    "name": "Серия «Монастыри Русской православной церкви». Воскресенский Ново-Иерусалимский монастырь",
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
+    }
+  },
+  {
+    "id": 3319,
+    "image": null,
+    "value": 0,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43839.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 26,
+      "h": 58,
+      "originalText": "26 × 58 мм"
+    }
   }
 ]
