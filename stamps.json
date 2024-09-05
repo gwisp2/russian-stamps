@@ -56344,6 +56344,7 @@
     "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/43827.aspx",
     "categories": [
+      "Дополненная реальность",
       "Международное сотрудничество",
       "Новинки",
       "Природа",
@@ -56497,6 +56498,24 @@
       "w": 26,
       "h": 58,
       "originalText": "26 × 58 мм"
+    }
+  },
+  {
+    "id": 3320,
+    "image": "images/3320.png",
+    "value": 22,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43877.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Серии"
+    ],
+    "name": "Серия «Декоративно-прикладное искусство России». Дымковская игрушка",
+    "shape": {
+      "type": "triangle45",
+      "w": 50,
+      "originalText": "35 × 35 × 50 мм"
     }
   }
 ]
