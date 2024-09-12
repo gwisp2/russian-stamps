@@ -56559,5 +56559,99 @@
       "h": 50,
       "originalText": "37 × 50 мм"
     }
+  },
+  {
+    "id": 3323,
+    "image": "images/3323.png",
+    "value": 50,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43882.aspx",
+    "categories": [
+      "Дополненная реальность",
+      "История",
+      "Культура и искусство",
+      "Наука и образование",
+      "Новинки",
+      "Персоны"
+    ],
+    "name": "200 лет со дня рождения П.В. Алабина (1824–1896), государственного и общественного деятеля, писателя",
+    "shape": {
+      "type": "rect",
+      "w": 30,
+      "h": 42,
+      "originalText": "30 × 42 мм"
+    }
+  },
+  {
+    "id": 3324,
+    "image": "images/3324.png",
+    "value": 31,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43898.aspx",
+    "categories": [
+      "Новинки",
+      "Промышленность"
+    ],
+    "name": "Автоматическое стрелковое оружие. № 3324 \"АК-47. 1949\".",
+    "shape": {
+      "type": "rect",
+      "w": 32.5,
+      "h": 65,
+      "originalText": "32,5 × 65 мм"
+    }
+  },
+  {
+    "id": 3325,
+    "image": "images/3325.png",
+    "value": 31,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43898.aspx",
+    "categories": [
+      "Новинки",
+      "Промышленность"
+    ],
+    "name": "Автоматическое стрелковое оружие. № 3325 \"АКМС. 1962\".",
+    "shape": {
+      "type": "rect",
+      "w": 32.5,
+      "h": 65,
+      "originalText": "32,5 × 65 мм"
+    }
+  },
+  {
+    "id": 3326,
+    "image": "images/3326.png",
+    "value": 31,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43898.aspx",
+    "categories": [
+      "Новинки",
+      "Промышленность"
+    ],
+    "name": "Автоматическое стрелковое оружие. № 3326 \"АК74. 1974\".",
+    "shape": {
+      "type": "rect",
+      "w": 32.5,
+      "h": 65,
+      "originalText": "32,5 × 65 мм"
+    }
+  },
+  {
+    "id": 3327,
+    "image": "images/3327.png",
+    "value": 31,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/43898.aspx",
+    "categories": [
+      "Новинки",
+      "Промышленность"
+    ],
+    "name": "Автоматическое стрелковое оружие. № 3327 \"АК-12. 2020\".",
+    "shape": {
+      "type": "rect",
+      "w": 32.5,
+      "h": 65,
+      "originalText": "32,5 × 65 мм"
+    }
   }
 ]
