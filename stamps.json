@@ -57136,5 +57136,23 @@
       "h": 34,
       "originalText": "25 × 34 мм"
     }
+  },
+  {
+    "id": 3342,
+    "image": "images/3342.png",
+    "value": 70,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/44014.aspx",
+    "categories": [
+      "Государство и власть",
+      "Новинки"
+    ],
+    "name": "Служба криминалистики Следственного комитета Российской Федерации",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
   }
 ]
