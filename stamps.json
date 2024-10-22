@@ -47258,6 +47258,7 @@
     "year": 2021,
     "page": "https://rusmarka.ru/catalog/marki/position/38649.aspx",
     "categories": [
+      "Серии",
       "Транспорт"
     ],
     "series": "Морской флот России",
@@ -47275,6 +47276,7 @@
     "year": 2021,
     "page": "https://rusmarka.ru/catalog/marki/position/38649.aspx",
     "categories": [
+      "Серии",
       "Транспорт"
     ],
     "series": "Морской флот России",
@@ -57153,6 +57155,25 @@
       "w": 37,
       "h": 37,
       "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3343,
+    "image": "images/3343.png",
+    "value": 50,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/44016.aspx",
+    "categories": [
+      "Международное сотрудничество",
+      "Наука и образование",
+      "Новинки"
+    ],
+    "name": "Встреча глав государств объединения БРИКС в г. Казани",
+    "shape": {
+      "type": "rect",
+      "w": 42,
+      "h": 30,
+      "originalText": "42 × 30 мм"
     }
   }
 ]
