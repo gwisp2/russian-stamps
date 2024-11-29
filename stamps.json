@@ -57408,5 +57408,24 @@
       "h": 30,
       "originalText": "42 × 30 мм"
     }
+  },
+  {
+    "id": 3355,
+    "image": "images/3355.png",
+    "value": 72,
+    "year": 2024,
+    "page": "https://rusmarka.ru/catalog/marki/position/44198.aspx",
+    "categories": [
+      "Наука и образование",
+      "Новинки",
+      "Персоны"
+    ],
+    "name": "Ф.Г. Углов (1904–2008), хирург, писатель, общественный деятель, профессор",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
   }
 ]
