@@ -57356,7 +57356,7 @@
     "id": 3356,
     "image": "images/3356.png",
     "value": 31,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44206.aspx",
     "categories": [
       "Новинки",
@@ -57374,7 +57374,7 @@
     "id": 3357,
     "image": "images/3357.png",
     "value": 22,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44207.aspx",
     "categories": [
       "Новинки",
@@ -57391,7 +57391,7 @@
     "id": 3358,
     "image": "images/3358.png",
     "value": 31,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44220.aspx",
     "categories": [
       "Государство и власть",
@@ -57410,7 +57410,7 @@
     "id": 3359,
     "image": "images/3359.png",
     "value": 70,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44242.aspx",
     "categories": [
       "История",
@@ -57429,7 +57429,7 @@
     "id": 3360,
     "image": "images/3360.png",
     "value": 31,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44246.aspx",
     "categories": [
       "Культура и искусство",
@@ -57448,7 +57448,7 @@
     "id": 3361,
     "image": "images/3361.png",
     "value": 50,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
@@ -57468,7 +57468,7 @@
     "id": 3362,
     "image": "images/3362.png",
     "value": 50,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
@@ -57488,7 +57488,7 @@
     "id": 3363,
     "image": "images/3363.png",
     "value": 50,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
@@ -57508,7 +57508,7 @@
     "id": 3364,
     "image": "images/3364.png",
     "value": 50,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
@@ -57528,7 +57528,7 @@
     "id": 3365,
     "image": "images/3365.png",
     "value": 50,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
@@ -57548,7 +57548,7 @@
     "id": 3366,
     "image": "images/3366.png",
     "value": 50,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
@@ -57568,7 +57568,7 @@
     "id": 3367,
     "image": "images/3367.png",
     "value": 50,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
@@ -57588,7 +57588,7 @@
     "id": 3368,
     "image": "images/3368.png",
     "value": 50,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
@@ -57608,7 +57608,7 @@
     "id": 3369,
     "image": "images/3369.png",
     "value": 50,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
@@ -57628,7 +57628,7 @@
     "id": 3370,
     "image": "images/3370.png",
     "value": 50,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44248.aspx",
     "categories": [
       "Дополненная реальность",
@@ -57648,7 +57648,7 @@
     "id": 3371,
     "image": "images/3371.png",
     "value": 72,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44250.aspx",
     "categories": [
       "Военная техника",
@@ -57669,7 +57669,7 @@
     "id": 3372,
     "image": "images/3372.png",
     "value": 60,
-    "year": 2025,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44260.aspx",
     "categories": [
       "Новинки",
@@ -57685,14 +57685,15 @@
   },
   {
     "id": 3373,
-    "image": null,
-    "value": 0,
-    "year": 2025,
+    "image": "images/3373.png",
+    "value": 200,
+    "year": 2024,
     "page": "https://rusmarka.ru/catalog/marki/position/44286.aspx",
     "categories": [
       "Новинки",
       "Религия"
     ],
+    "name": "Всемирное наследие ЮНЕСКО. 500 лет Новодевичьему монастырю",
     "shape": {
       "type": "rect",
       "w": 65,
