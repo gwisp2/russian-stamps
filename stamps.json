@@ -57865,5 +57865,24 @@
       "h": 29,
       "originalText": "36,5 × 29 мм"
     }
+  },
+  {
+    "id": 3382,
+    "image": null,
+    "value": 0,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44407.aspx",
+    "categories": [
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "shape": {
+      "type": "rect",
+      "w": 50,
+      "h": 37,
+      "originalText": "50 × 37 мм"
+    }
   }
 ]
