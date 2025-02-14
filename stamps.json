@@ -57907,5 +57907,89 @@
       "h": 37,
       "originalText": "37 × 37 мм"
     }
+  },
+  {
+    "id": 3384,
+    "image": "images/3384.png",
+    "value": 33,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44455.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Природа",
+      "Серии",
+      "Фауна"
+    ],
+    "name": "Серия «К 80-летию Победы в Великой Отечественной войне». Фауна России. № 3384 \"Верблюды\".",
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
+    }
+  },
+  {
+    "id": 3385,
+    "image": "images/3385.png",
+    "value": 33,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44455.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Природа",
+      "Серии",
+      "Фауна"
+    ],
+    "name": "Серия «К 80-летию Победы в Великой Отечественной войне». Фауна России. № 3385 \"Кошки\".",
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
+    }
+  },
+  {
+    "id": 3386,
+    "image": "images/3386.png",
+    "value": 33,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44455.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Природа",
+      "Серии",
+      "Фауна"
+    ],
+    "name": "Серия «К 80-летию Победы в Великой Отечественной войне». Фауна России. № 3386 \"Олени\".",
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
+    }
+  },
+  {
+    "id": 3387,
+    "image": "images/3387.png",
+    "value": 33,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44455.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Природа",
+      "Серии",
+      "Фауна"
+    ],
+    "name": "Серия «К 80-летию Победы в Великой Отечественной войне». Фауна России. № 3387 \"Собаки\".",
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
+    }
   }
 ]
