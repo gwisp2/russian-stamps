@@ -58010,5 +58010,25 @@
       "h": 65,
       "originalText": "32,5 × 65 мм"
     }
+  },
+  {
+    "id": 3389,
+    "image": "images/3389.png",
+    "value": 72,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44474.aspx",
+    "categories": [
+      "Новинки",
+      "Природа",
+      "Серии",
+      "Туризм и отдых"
+    ],
+    "name": "Серия «Курорты России». Всесезонный курорт «Манжерок»",
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
+    }
   }
 ]
