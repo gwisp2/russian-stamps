@@ -58030,5 +58030,23 @@
       "h": 32.5,
       "originalText": "65 × 32,5 мм"
     }
+  },
+  {
+    "id": 3390,
+    "image": "images/3390.png",
+    "value": 33,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44478.aspx",
+    "categories": [
+      "Новинки",
+      "Спорт"
+    ],
+    "name": "100 лет футбольному клубу «Зенит»",
+    "shape": {
+      "type": "rect",
+      "w": 24,
+      "h": 34,
+      "originalText": "24 × 34 мм"
+    }
   }
 ]
