@@ -58048,5 +58048,42 @@
       "h": 34,
       "originalText": "24 × 34 мм"
     }
+  },
+  {
+    "id": 3391,
+    "image": "images/3391.png",
+    "value": 63,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44535.aspx",
+    "categories": [
+      "Наука и образование",
+      "Новинки",
+      "Персоны"
+    ],
+    "name": "200 лет со дня рождения А.Ф. Можайского (1825–1890), изобретателя, военного деятеля",
+    "shape": {
+      "type": "rect",
+      "w": 50,
+      "h": 37,
+      "originalText": "50 × 37 мм"
+    }
+  },
+  {
+    "id": 3400,
+    "image": "images/3400.png",
+    "value": 200,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44533.aspx",
+    "categories": [
+      "Новинки",
+      "Стандартные и тарифные марки"
+    ],
+    "name": "Художественная марка «200 рублей»",
+    "shape": {
+      "type": "rect",
+      "w": 25,
+      "h": 34,
+      "originalText": "25 × 34 мм"
+    }
   }
 ]
