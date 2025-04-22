@@ -58220,8 +58220,8 @@
   },
   {
     "id": 3399,
-    "image": null,
-    "value": 0,
+    "image": "images/3399.png",
+    "value": 250,
     "year": 2025,
     "page": "https://rusmarka.ru/catalog/marki/position/44621.aspx",
     "categories": [
@@ -58230,6 +58230,7 @@
       "Персоны",
       "Серии"
     ],
+    "name": "Российская академия художеств. 175 лет со дня рождения И.П. Похитонова (1850–1923), художника",
     "shape": {
       "type": "rect",
       "w": 50,
