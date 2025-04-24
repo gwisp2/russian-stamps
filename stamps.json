@@ -58378,8 +58378,8 @@
   },
   {
     "id": 3408,
-    "image": null,
-    "value": 0,
+    "image": "images/3408.png",
+    "value": 200,
     "year": 2025,
     "page": "https://rusmarka.ru/catalog/marki/position/44734.aspx",
     "categories": [
@@ -58388,6 +58388,7 @@
       "Персоны",
       "Серии"
     ],
+    "name": "Российская академия художеств. 250 лет со дня рождения К.И. Росси (1775–1849), архитектора",
     "shape": {
       "type": "rect",
       "w": 42,
