@@ -58395,5 +58395,381 @@
       "h": 30,
       "originalText": "42 × 30 мм"
     }
+  },
+  {
+    "id": 3409,
+    "image": "images/3409.png",
+    "value": 63,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44740.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "name": "Серия «Маршалы Советского Союза». 125 лет со дня рождения Ф.И. Голикова (1900–1980), Маршала Советского Союза.",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 50,
+      "originalText": "37 × 50 мм"
+    }
+  },
+  {
+    "id": 3410,
+    "image": "images/3410.png",
+    "value": 63,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44740.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Персоны",
+      "Серии"
+    ],
+    "name": "Серия «Маршалы Советского Союза». 125 лет со дня рождения В.И. Чуйкова (1900–1982), Маршала Советского Союза.",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 50,
+      "originalText": "37 × 50 мм"
+    }
+  },
+  {
+    "id": 3411,
+    "image": "images/3411.png",
+    "value": 80,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44745.aspx",
+    "categories": [
+      "Дополненная реальность",
+      "История",
+      "Международное сотрудничество",
+      "Новинки",
+      "Праздники",
+      "Серии"
+    ],
+    "name": "Совместный выпуск Российской Федерации и Республики Беларусь. 80 лет Победы в Великой Отечественной войне.",
+    "shape": {
+      "type": "rect",
+      "w": 49.5,
+      "h": 49.5,
+      "originalText": "49,5 × 49,5 мм"
+    }
+  },
+  {
+    "id": 3412,
+    "image": "images/3412.png",
+    "value": 33,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44786.aspx",
+    "categories": [
+      "Новинки",
+      "Стандартные и тарифные марки"
+    ],
+    "name": "Тарифная марка «33 рубля»",
+    "shape": {
+      "type": "rect",
+      "w": 20,
+      "h": 27.5,
+      "originalText": "20 × 27,5 мм"
+    }
+  },
+  {
+    "id": 3413,
+    "image": "images/3413.png",
+    "value": 76,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44787.aspx",
+    "categories": [
+      "Новинки",
+      "Стандартные и тарифные марки"
+    ],
+    "name": "Тарифная марка «76 рублей»",
+    "shape": {
+      "type": "rect",
+      "w": 25,
+      "h": 34,
+      "originalText": "25 × 34 мм"
+    }
+  },
+  {
+    "id": 3414,
+    "image": "images/3414.png",
+    "value": 24,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44794.aspx",
+    "categories": [
+      "Новинки",
+      "Природа",
+      "Серии",
+      "Фауна"
+    ],
+    "name": "Фауна России. Бабочки. Переливница Шренка (Mimathyma schrenckii).",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3415,
+    "image": "images/3415.png",
+    "value": 24,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44794.aspx",
+    "categories": [
+      "Новинки",
+      "Природа",
+      "Серии",
+      "Фауна"
+    ],
+    "name": "Фауна России. Бабочки. Серицин Монтела (Sericinus montela).",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3416,
+    "image": "images/3416.png",
+    "value": 24,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44794.aspx",
+    "categories": [
+      "Новинки",
+      "Природа",
+      "Серии",
+      "Фауна"
+    ],
+    "name": "Фауна России. Бабочки. Людорфия Пуцилло (Luehdorfia puziloi).",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3417,
+    "image": "images/3417.png",
+    "value": 24,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44794.aspx",
+    "categories": [
+      "Новинки",
+      "Природа",
+      "Серии",
+      "Фауна"
+    ],
+    "name": "Фауна России. Бабочки. Эпикопея (Epicopeia mencia).",
+    "shape": {
+      "type": "rect",
+      "w": 37,
+      "h": 37,
+      "originalText": "37 × 37 мм"
+    }
+  },
+  {
+    "id": 3418,
+    "image": "images/3418.png",
+    "value": 80,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44820.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Праздники",
+      "Серии"
+    ],
+    "name": "К 80-летию Победы в Великой Отечественной войне 1941–1945 гг. Писатели-фронтовики. К.Я. Ваншенкин (1925–2012).",
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
+  },
+  {
+    "id": 3419,
+    "image": "images/3419.png",
+    "value": 80,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44820.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Праздники",
+      "Серии"
+    ],
+    "name": "К 80-летию Победы в Великой Отечественной войне 1941–1945 гг. Писатели-фронтовики. Е.М. Винокуров (1925–1993).",
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
+  },
+  {
+    "id": 3420,
+    "image": "images/3420.png",
+    "value": 80,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44820.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Праздники",
+      "Серии"
+    ],
+    "name": "К 80-летию Победы в Великой Отечественной войне 1941–1945 гг. Писатели-фронтовики. Е.И. Носов (1925–2002).",
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
+  },
+  {
+    "id": 3421,
+    "image": "images/3421.png",
+    "value": 80,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44820.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Праздники",
+      "Серии"
+    ],
+    "name": "К 80-летию Победы в Великой Отечественной войне 1941–1945 гг. Писатели-фронтовики. П.Е. Тодоровский (1925–2013).",
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
+  },
+  {
+    "id": 3422,
+    "image": "images/3422.png",
+    "value": 80,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44818.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Праздники",
+      "Серии"
+    ],
+    "name": "К 80-летию Победы в Великой Отечественной войне 1941–1945 гг. Художники — Победе. А.А. Дейнека (1899–1969).",
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
+  },
+  {
+    "id": 3423,
+    "image": "images/3423.png",
+    "value": 80,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44818.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Праздники",
+      "Серии"
+    ],
+    "name": "К 80-летию Победы в Великой Отечественной войне 1941–1945 гг. Художники — Победе. Г.М. Коржев (1925–2012).",
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
+  },
+  {
+    "id": 3424,
+    "image": "images/3424.png",
+    "value": 80,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44818.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Праздники",
+      "Серии"
+    ],
+    "name": "К 80-летию Победы в Великой Отечественной войне 1941–1945 гг. Художники — Победе. Е.Е. Моисеенко (1916–1988).",
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
+  },
+  {
+    "id": 3425,
+    "image": "images/3425.png",
+    "value": 80,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44818.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Праздники",
+      "Серии"
+    ],
+    "name": "К 80-летию Победы в Великой Отечественной войне 1941–1945 гг. Художники — Победе. Г.Н. Москалёв (1925–2011).",
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
+  },
+  {
+    "id": 3426,
+    "image": "images/3426.png",
+    "value": 80,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44818.aspx",
+    "categories": [
+      "История",
+      "Культура и искусство",
+      "Новинки",
+      "Персоны",
+      "Праздники",
+      "Серии"
+    ],
+    "name": "К 80-летию Победы в Великой Отечественной войне 1941–1945 гг. Художники — Победе. В.И. Переяславец (1918–2018).",
+    "shape": {
+      "type": "rect",
+      "w": 35,
+      "h": 35,
+      "originalText": "35 × 35 мм"
+    }
   }
 ]
