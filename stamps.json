@@ -29054,7 +29054,8 @@
     "year": 2013,
     "page": "https://rusmarka.ru/catalog/marki/position/25584.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Серии"
     ],
     "series": "Декоративно-прикладное искусство России. Платки",
     "name": "Карабаново",
@@ -29070,7 +29071,8 @@
     "year": 2013,
     "page": "https://rusmarka.ru/catalog/marki/position/25584.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Серии"
     ],
     "series": "Декоративно-прикладное искусство России. Платки",
     "name": "Москва. Трехгорная мануфактура",
@@ -29086,7 +29088,8 @@
     "year": 2013,
     "page": "https://rusmarka.ru/catalog/marki/position/25584.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Серии"
     ],
     "series": "Декоративно-прикладное искусство России. Платки",
     "name": "Оренбург. Пуховый платок",
@@ -29102,7 +29105,8 @@
     "year": 2013,
     "page": "https://rusmarka.ru/catalog/marki/position/25584.aspx",
     "categories": [
-      "Культура и искусство"
+      "Культура и искусство",
+      "Серии"
     ],
     "series": "Декоративно-прикладное искусство России. Платки",
     "name": "Павлово-Посад",
@@ -30730,7 +30734,9 @@
     "year": 2014,
     "page": "https://rusmarka.ru/catalog/marki/position/27026.aspx",
     "categories": [
+      "Военная техника",
       "История",
+      "Персоны",
       "Праздники",
       "Серии"
     ],
@@ -30749,7 +30755,9 @@
     "year": 2014,
     "page": "https://rusmarka.ru/catalog/marki/position/27026.aspx",
     "categories": [
+      "Военная техника",
       "История",
+      "Персоны",
       "Праздники",
       "Серии"
     ],
@@ -30768,7 +30776,9 @@
     "year": 2014,
     "page": "https://rusmarka.ru/catalog/marki/position/27026.aspx",
     "categories": [
+      "Военная техника",
       "История",
+      "Персоны",
       "Праздники",
       "Серии"
     ],
@@ -30787,7 +30797,9 @@
     "year": 2014,
     "page": "https://rusmarka.ru/catalog/marki/position/27026.aspx",
     "categories": [
+      "Военная техника",
       "История",
+      "Персоны",
       "Праздники",
       "Серии"
     ],
@@ -58790,6 +58802,25 @@
       "w": 42,
       "h": 30,
       "originalText": "42 × 30 мм"
+    }
+  },
+  {
+    "id": 3428,
+    "image": "images/3428.png",
+    "value": 100,
+    "year": 2025,
+    "page": "https://rusmarka.ru/catalog/marki/position/44861.aspx",
+    "categories": [
+      "История",
+      "Новинки",
+      "Связь"
+    ],
+    "name": "100 лет газете «Комсомольская правда»",
+    "shape": {
+      "type": "rect",
+      "w": 65,
+      "h": 32.5,
+      "originalText": "65 × 32,5 мм"
     }
   }
 ]
